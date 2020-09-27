@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Alessandro, an 🇮🇹 software developer. I'm currently working on Web solutions for financial advisors.
+I'm taking a Bachelor Degree in Computer Science at University of L'Aquila, Italy.
+
+Actually, I'm learning advanced topics of software development, to make my job better and better. I'm also studying Artificial Intelligence, like Automated Reasoning and Machine Learning.
+
+Feel free to contact me at me@alessandrodorazio.it
+
 <!--
 **alessandrodorazio/alessandrodorazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
