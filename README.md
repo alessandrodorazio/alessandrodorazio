@@ -2,6 +2,8 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/alessandrodorazio/)
 
+[My personal website](https://alessandrodorazio.it)
+
 I'm Alessandro, an 🇮🇹 software developer. I'm currently working on Web solutions for financial advisors.
 I'm taking a Bachelor Degree in Computer Science at University of L'Aquila, Italy.
 
