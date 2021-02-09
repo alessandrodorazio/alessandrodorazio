@@ -5,9 +5,9 @@
 [My personal website](https://alessandrodorazio.it)
 
 I'm Alessandro, an 🇮🇹 software developer. I'm currently working on Web solutions for financial advisors.
-I'm taking a Bachelor Degree in Computer Science at University of L'Aquila, Italy.
+I'm taking a Master Degree in Computer Science at University of L'Aquila, Italy.
 
-Actually, I'm learning advanced topics of software development, to make my job better and better. I'm also studying Artificial Intelligence, like Automated Reasoning and Machine Learning.
+Actually, I'm learning advanced topics of software development, to make my job better and better. I'm also studying Artificial Intelligence, in particular Automated Reasoning and Machine Learning.
 
 Feel free to contact me at me@alessandrodorazio.it
 
