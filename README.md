@@ -2,6 +2,9 @@
 ### Passion Driven Software Engineer
 
 ## Pinned blog articles
+- [Add WebSockets to Laravel in 10 mins 💬](https://blog.alessandrodorazio.it/add-websockets-to-laravel-in-10-mins-4f20c12001ab)
+- [Awesome Laravel: How to use RabbitMQ to handle communication between microservices🔌](https://medium.com/@alessandrodorazio/awesome-laravel-how-to-use-rabbitmq-to-handle-communication-between-microservices-97b42f91aa3)
+- [Awesome Laravel: shift from legacy code to modern ✨](https://medium.com/@alessandrodorazio/awesome-laravel-shift-from-legacy-code-to-modern-3e5e5dc634ad)
 
 ## Personal projects
 - [Dynamic image generator](https://github.com/alessandrodorazio/sharing-image-generator) - Laravel, Vue.
