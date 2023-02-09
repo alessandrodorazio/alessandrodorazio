@@ -17,51 +17,51 @@ Highly experienced and motivated Senior Software Engineer, currently employed as
 
 ## Master degree projects
 
-#### Test based on Master Thesis (Python)
+### Test based on Master Thesis (Python)
 I used it to do empirical tests about the achievement of consensus in a random graph.
 Repo: [Simulation of agents behaviour in Rational Fair Consensus](https://github.com/alessandrodorazio/rational_fair_consensus_execution_test/blob/main/test_local_rules_protocol.py)
 
-#### Service Oriented Software Engineering (Java)
+### Service Oriented Software Engineering (Java)
 Software to know today soccer matches, bet quotes and weather in the city where the match will take place.
 Repos: [Data aggregator](https://github.com/alessandrodorazio/sose-data-aggregator), [Football Service](https://github.com/alessandrodorazio/sose-football-api), [Weather Service](https://github.com/alessandrodorazio/sose-weather-api/tree/master), [Bet Service](https://github.com/alessandrodorazio/sose-bet-api), [Football-Weather Prosumer](https://github.com/alessandrodorazio/sose-football-weather-prosumer), [Football-Bet Prosumer](https://github.com/alessandrodorazio/sose-football-bet-prosumer)
 
-#### Social Mining (Java)
+### Social Mining (Java)
 Analyze trends and insight from Twitter. Repo: [SocialMining](https://github.com/alessandrodorazio/socialmining)
 
 
 
 ## Bachelor degree projects
 
-#### Advanced Web Technologies (Laravel)
+### Advanced Web Technologies (Laravel)
 App that connects with RAI (Italian state television) to view the timetable of next tv shows.
 Repo: [Guida TV](https://github.com/alessandrodorazio/guida_tv). 
 
-#### Web Technologies (Laravel)
+### Web Technologies (Laravel)
 Find roommates and review them.
 Repo: [MatesAdvisor](https://github.com/alessandrodorazio/MatesAdvisor)
 
-#### Mobile app development (Ionic, Angular)
+### Mobile app development (Ionic, Angular)
 Mobile app prototype to tell users where to shop food at the lowest possible price near the user real time position.
 Repo: [ShopOrganizer](https://github.com/alessandrodorazio/ShopOrganizer).
 
-#### Web Engineering (Java)
+### Web Engineering (Java)
 Web app to create surveys.
 Repo: [PollWeb](https://github.com/alessandrodorazio/pollweb).
 
-#### Agile Methodologies (Laravel, React)
+### Agile Methodologies (Laravel, React)
 Web app in which users can create a radio station and listen to Youtube songs in real time.
 Repo: [PartyApp](https://github.com/alessandrodorazio/partyapp).
 
-#### Software Engineering (Laravel)
+### Software Engineering (Laravel)
 Web app to let students and professors to chat through Direct Messages, groups and feeds (like Telegram channels).
 Repo: [UniChat](https://github.com/alessandrodorazio/flop_team).
 
-#### Databases (PHP, SQL)
+### Databases (PHP, SQL)
 Platform to manage a library with a review system.
 Repo: [SocialBook](https://github.com/alessandrodorazio/SocialBook).
 
 
-#### Object Oriented (Java)
+### Object Oriented (Java)
 Desktop app to manage an highway.
 Repos: [MMS](https://github.com/alessandrodorazio/MMS) (Final Exam), [EcoToll](https://github.com/alessandrodorazio/ECOtoll) (Mid term exam)
 
