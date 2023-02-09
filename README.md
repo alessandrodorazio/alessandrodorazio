@@ -1,6 +1,8 @@
 # Alessandro D'Orazio
 ### Passion Driven Software Engineer
 
+Highly experienced and motivated Senior Software Engineer, currently employed as a Lead Software Engineer. My primary area of expertise is web development, however, I possess a wide range of knowledge in Artificial Intelligence, Blockchain, and Data Science.
+
 ## Pinned blog articles
 - [Add WebSockets to Laravel in 10 mins 💬](https://blog.alessandrodorazio.it/add-websockets-to-laravel-in-10-mins-4f20c12001ab)
 - [Awesome Laravel: How to use RabbitMQ to handle communication between microservices🔌](https://medium.com/@alessandrodorazio/awesome-laravel-how-to-use-rabbitmq-to-handle-communication-between-microservices-97b42f91aa3)
@@ -15,13 +17,16 @@
 
 ## Master degree projects
 
-**Test based on Master Thesis** (Python)
+#### Test based on Master Thesis (Python)
 I used it to do empirical tests about the achievement of consensus in a random graph.
 Repo: [Simulation of agents behaviour in Rational Fair Consensus](https://github.com/alessandrodorazio/rational_fair_consensus_execution_test/blob/main/test_local_rules_protocol.py)
 
 #### Service Oriented Software Engineering (Java)
 Software to know today soccer matches, bet quotes and weather in the city where the match will take place.
 Repos: [Data aggregator](https://github.com/alessandrodorazio/sose-data-aggregator), [Football Service](https://github.com/alessandrodorazio/sose-football-api), [Weather Service](https://github.com/alessandrodorazio/sose-weather-api/tree/master), [Bet Service](https://github.com/alessandrodorazio/sose-bet-api), [Football-Weather Prosumer](https://github.com/alessandrodorazio/sose-football-weather-prosumer), [Football-Bet Prosumer](https://github.com/alessandrodorazio/sose-football-bet-prosumer)
+
+#### Social Mining (Java)
+Analyze trends and insight from Twitter. Repo: [SocialMining](https://github.com/alessandrodorazio/socialmining)
 
 
 
@@ -30,6 +35,10 @@ Repos: [Data aggregator](https://github.com/alessandrodorazio/sose-data-aggregat
 #### Advanced Web Technologies (Laravel)
 App that connects with RAI (Italian state television) to view the timetable of next tv shows.
 Repo: [Guida TV](https://github.com/alessandrodorazio/guida_tv). 
+
+#### Web Technologies (Laravel)
+Find roommates and review them.
+Repo: [MatesAdvisor](https://github.com/alessandrodorazio/MatesAdvisor)
 
 #### Mobile app development (Ionic, Angular)
 Mobile app prototype to tell users where to shop food at the lowest possible price near the user real time position.
