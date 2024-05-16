@@ -3,6 +3,8 @@
 
 Highly experienced and motivated Senior Software Engineer, currently employed as a Lead Software Engineer. My primary area of expertise is web development, however, I possess a wide range of knowledge in Artificial Intelligence, Blockchain, and Data Science.
 
+Actually working as Head of Technology for [PromoBulls](https://promobulls.com) and founder of [parliamodiai.it](https://parliamodiai.it).
+
 ## Pinned blog articles
 - [Add WebSockets to Laravel in 10 mins 💬](https://blog.alessandrodorazio.it/add-websockets-to-laravel-in-10-mins-4f20c12001ab)
 - [Awesome Laravel: How to use RabbitMQ to handle communication between microservices🔌](https://medium.com/@alessandrodorazio/awesome-laravel-how-to-use-rabbitmq-to-handle-communication-between-microservices-97b42f91aa3)
