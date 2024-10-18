@@ -75,4 +75,5 @@ Repos: [MMS](https://github.com/alessandrodorazio/MMS) (Final Exam), [EcoToll](h
 - [Blockchain DAO](https://github.com/alessandrodorazio/dao-with-buildspace) - Solidity, React.
 
 ## Open Source Contributions
-- [Added custom job dispatch connection for a Laravel Discord alert plugin ](https://github.com/spatie/laravel-discord-alerts/pull/47)
+- [Sitemap Crawler for Cheshire Cat](https://github.com/cheshire-cat-ai/plugins/pull/104)
+- [Added custom job dispatch connection for a Laravel Discord alert plugin](https://github.com/spatie/laravel-discord-alerts/pull/47)
