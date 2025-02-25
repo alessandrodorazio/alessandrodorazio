@@ -11,6 +11,7 @@ Actually working as Head of Technology for [PromoBulls](https://promobulls.com) 
 - [Awesome Laravel: shift from legacy code to modern ✨](https://medium.com/@alessandrodorazio/awesome-laravel-shift-from-legacy-code-to-modern-3e5e5dc634ad)
 
 ## Personal projects
+- [Commitlens](https://pypi.org/project/commitlens/) - Git Change Visualization Tool with AI-powered summaries
 - [Dynamic image generator](https://github.com/alessandrodorazio/sharing-image-generator) - Laravel, Vue.
 - [TchuryMail](https://github.com/alessandrodorazio/tchurymail) - Laravel. An open source platform to send email.
 - [CodiceFiscale.JS](https://github.com/alessandrodorazio/CodiceFiscale.js) - JS. Extract data from italian fiscal code. 
